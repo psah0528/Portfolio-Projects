@@ -48,10 +48,10 @@ const onSubmit = async (event) => {
     <div id="hero" className="hero">
       <img src={profile} alt="" />
       <h1>
-        <span> I am Puja,</span> Front-end Developer based in <span>India</span>{" "}
+        <span> I am Puja,</span> Web Developer based in <span>India</span>{" "}
       </h1>
       <p>
-        I am Frontend Developer from Patna , India with 5 years experience in
+        I am Web Developer from Patna , India with 2 years experience in
         multiple companies.....
       </p>
       <div className="hero-action">
@@ -73,14 +73,14 @@ const onSubmit = async (event) => {
  </div>
  <div className="about-right">
   <div className="about-para">
-   <p>  I am an experienced Frontend Developer with over a decade of proffesional experties in the fileds. Throughout my carreier, I have had the privillage of collaborating with prestigious organizations contributting to their sucess and growth. </p>
-   <p> My Passion for frontend development is not only reflected in my extensive experienced but also in the ethusiasm and dedications I bring to each project. </p>
+   <p>  I am an experienced Web Developer with over a decade of proffesional experties in the fileds. Throughout my carreier, I have had the privillage of collaborating with prestigious organizations contributting to their sucess and growth. </p>
+   <p> My Passion for Web development is not only reflected in my extensive experienced but also in the ethusiasm and dedications I bring to each project. </p>
   </div>
   <div className="about-skills">
    <div className="about-skill"><p>HTML & CSS</p><hr style={{width: "50%"}} /></div>
    <div className="about-skill"><p>React Js</p><hr style={{width: "70%"}} /></div>
    <div className="about-skill"><p>Javascript</p><hr style={{width: "60%"}} /></div>
-   <div className="about-skill"><p>Java+DSA</p><hr style={{width: "50%"}} /></div>
+   <div className="about-skill"><p>MERN STACK</p><hr style={{width: "50%"}} /></div>
   </div>
  </div>
 </div>
@@ -91,12 +91,12 @@ const onSubmit = async (event) => {
 </div>
 <hr />
 <div className="about-achivement">
- <h1>10+</h1>
+ <h1>5+</h1>
  <p>PROJECT COMPLETED  </p>
 </div>
 <hr />
 <div className="about-achivement">
- <h1>15+</h1>
+ <h1>8+</h1>
  <p>HAPPY CLIENTS  </p>
 </div>
 </div>
