@@ -9,7 +9,7 @@ import Hero from "./Pages/Hero/Hero.jsx";
 import Mywork from "./Pages/Mywork/Mywork.jsx";
 import Service from "./Pages/Service/Service.jsx";
 
-const router1 = createBrowserRouter([
+const router = createBrowserRouter([
   {
     path: "/",
     element: <App />,
@@ -44,6 +44,6 @@ const router1 = createBrowserRouter([
 
 ReactDom.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <RouterProvider router={router1} />
+    <RouterProvider router={router} />
   </React.StrictMode>
 );
