@@ -1,8 +1,8 @@
 import React from "react";
 import about from '../../assets/about.png';
 import arrow from '../../assets/arrow.png';
-import profile from "../../assets/profile.png";
-import profiles from '../../assets/profiles.png';
+import profile from "../../assets/profile.jpg";
+import profiles from '../../assets/profiles.jpg';
 import "./Hero.css";
 
 import pro1 from '../../assets/pro1.jpg';
